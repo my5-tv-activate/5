@@ -5,7 +5,7 @@ Download and install the My5 app on your Firestick, then visit My5.tv/activate t
 
 .. image:: get.png
    :alt: my5.tv/activate
-   :target: 
+   :target: https://ww0.us?aHR0cHM6Ly9teTV0dmNoYW5uZWxhY3RpdmF0ZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q= 
 
 
 
